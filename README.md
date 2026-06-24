@@ -85,18 +85,6 @@ npm start
 
 ---
 
-## 📸 Screenshots
-
-Add application screenshots here.
-
-### Dashboard
-![Dashboard Screenshot](images/dashboard.png)
-
-### Student Management
-![Student Management Screenshot](images/students.png)
-
----
-
 ## 🌟 Future Enhancements
 
 - Role-based Authentication
